@@ -2,11 +2,6 @@
   Portfolio Website - v2.0<br/>
   <a href="#" target="_blank">Anatolii Blashkiv</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme.png" />
-  <img alt="Demo" src="./Images/readme2.png" />
-</div>
-
 <br/>
 
 <center>
